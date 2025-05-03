@@ -1,5 +1,5 @@
  
-head>
+<head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Automax</title>
@@ -73,8 +73,4 @@ footer {
   text-align: center;
   font-size: 0.9em;
 }
-
-git add style.css
-git commit -m "Correction du nom de fichier CSS"
-git push
 
