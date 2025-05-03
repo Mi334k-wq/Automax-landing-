@@ -1,10 +1,9 @@
 git init 
-git add. 
+git add . 
 git commit -m "landing page Automax" 
 git branch -M main 
-git remote add origin https://github.com/Mi334k-wq/Automax-landing-.git
+git remote add origin https://github.com/Mi334k-wq/Automax-landing.git
 git push -u origin main
-├── index.html
 <html lang="en">
 <head>
   <meta charset="UTF-8">
