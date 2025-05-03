@@ -182,13 +182,4 @@ git push -u origin main
     }
   </script></body>
 </html>
-head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Automax</title>
-  <link rel="stylesheet" href="style.css" />
-</head>
-git add .
-git commit -m "Ajout de la landing page"
-git push -u origin main 
 
