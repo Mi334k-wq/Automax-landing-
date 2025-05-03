@@ -1,12 +1,15 @@
 echo "# Automax-landing-" >> README.md 
 git init 
 git add README.md 
-git commit -m "premier commit" 
+git commit -m "landing page Automax" 
 git branch -M main 
 git remote add origin https://github.com/Mi334k-wq/Automax-landing-.git
- git push -u origin main
+git push -u origin main
+├── index.html
+├── style.css index html
 <html lang="en">
 <head>
+<link rel="stylesheet" href="style.css" />
   <meta charset="UTF-8">
   <title>Automax – L'automatisation qui booste ton business !</title>
   <style>
@@ -79,6 +82,7 @@ git remote add origin https://github.com/Mi334k-wq/Automax-landing-.git
 </html>
 <!DOCTYPE html><html lang="fr">
 <head>
+<link rel="stylesheet" href="style.css" />
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Automax – L'automatisation qui booste ton business !</title>
